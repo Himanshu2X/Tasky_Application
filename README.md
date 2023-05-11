@@ -1,1 +1,1 @@
-######## Tasky Application JS Build ######
+# Tasky Application JS Build ######
